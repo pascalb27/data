@@ -1,0 +1,57 @@
+[
+ {
+  "reference": "A7R*01*16*2",
+  "prix": 1,
+  "delai": 5
+ },
+ {
+  "reference": "CU004200",
+  "prix": 3,
+  "delai": 8
+ },
+ {
+  "reference": "A7E*01*12*1",
+  "prix": 5,
+  "delai": 11
+ },
+ {
+  "reference": "A7R*11*12*2",
+  "prix": 7,
+  "delai": 14
+ },
+ {
+  "reference": "A7V*36*12*090*1",
+  "prix": 9,
+  "delai": 17
+ },
+ {
+  "reference": "A7V*36*12*100*1",
+  "prix": 11,
+  "delai": 20
+ },
+ {
+  "reference": "FL006600",
+  "prix": 13,
+  "delai": 23
+ },
+ {
+  "reference": 3231,
+  "prix": 15,
+  "delai": 26
+ },
+ {
+  "reference": "A7E*02*16*2",
+  "prix": 17,
+  "delai": 29
+ },
+ {
+  "reference": "A7V*02*16*080*2",
+  "prix": 19,
+  "delai": 32
+ },
+ {
+  "reference": "CU003100",
+  "prix": 21,
+  "delai": 35
+ }
+]
